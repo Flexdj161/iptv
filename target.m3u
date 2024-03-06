@@ -1,0 +1,899 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTINF:-1 tvg-id="tvcentr"tvg-logo="http://epg.it999.ru/img2/649.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВ Центр HD
+http://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-id="tvcentr"tvg-logo="http://epg.it999.ru/img2/649.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВ Центр
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="rentv"tvg-logo="http://epg.it999.ru/img2/18.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",РЕН ТВ (www.iptvm3u.ru)
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="mir"tvg-logo="http://epg.it999.ru/img2/726.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts"tvg-logo="http://epg.it999.ru/img2/79.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="domashny"tvg-logo="http://epg.it999.ru/img2/304.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Домашний
+http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="yu"tvg-logo="http://epg.it999.ru/img2/898.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="rzhd-tv"tvg-logo="http://epg.it999.ru/img2/2471.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24"tvg-logo="http://epg.it999.ru/img2/2078.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="izvestia"tvg-logo="http://epg.it999.ru/img2/2271.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="rbk"tvg-logo="http://epg.it999.ru/img2/743.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd"tvg-logo="http://epg.it999.ru/img2/2498.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",В мире животных HD
+http://hls.peers.tv/streaming/animal_family_hd/16/tvrec/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo="http://epg.it999.ru/img2/2627.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-id="football-ru"tvg-logo="http://epg.it999.ru/img2/2782.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="backustv"tvg-logo="http://epg.it999.ru/img2/4770.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",BackusTV
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="backustv-horror"tvg-logo="http://epg.it999.ru/img2/4662.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",BackusTV Страшное
+https://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-id="tvxxi"tvg-logo="http://epg.it999.ru/img2/309.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="pobeda"tvg-logo="http://epg.it999.ru/img2/2771.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="kinopokaz"tvg-logo="http://epg.it999.ru/img2/2834.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="evrokino"tvg-logo="http://epg.it999.ru/img2/352.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="cinema-ru"tvg-logo="http://epg.it999.ru/img2/2549.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="illuzion-plus"tvg-logo="http://epg.it999.ru/img2/2403.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Иллюзион +
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="muztv"tvg-logo="http://epg.it999.ru/img2/897.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://tv2club.com/wp-content/uploads/2020/12/cz-ocko-8142.jpg"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="no_epg_music"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Первый Музыкальный RU
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="no_epg_music"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Первый Музыкальный RU HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="no_epg_music"tvg-logo="https://online-red.com/images/tv/one-hd.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="no_epg_music"tvg-logo="https://online-red.com/images/tv/one-hd.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Первый Музыкальный BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="no_epg_music"tvg-logo="https://sat-one.info/news-imeg/58892.jpg"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",VIVA TV
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="shanson-tv"tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png"group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-source=""catchup-days="":http-user-agent="",
+
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="KINO+"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="ОБЩИЕ"catchup=""catchup-source=""catchup-days="":http-user-agent="",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-user-agent="",Королев ТВ
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="ПОЗНАВАТЕЛЬНЫЕ"catchup=""catchup-source=""catchup-days="":http-user-agent="",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="РЕЛАКС- расслабление"catchup=""catchup-source=""catchup-days="":http-user-agent="",World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="rentv"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="mir"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Эфирные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",5 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="tv1000"tvg-logo=""group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",TV 1000 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8
+#EXTINF:-1 tvg-id="tv1000-action"tvg-logo=""group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",TV 1000 Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
+#EXTINF:-1 tvg-id="ultra-hd-cinema"tvg-logo=""group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="tvxxi"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1351773616450.png"group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",TV XXI Век
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus"tvg-logo=""group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Иллюзион +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion"tvg-logo=""group-title="Фильмовые"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Русский Иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8
+#EXTINF:-1 tvg-id="tnt"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="super"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Супер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="2na2"tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",2х2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="love-nature-4k"tvg-logo=""group-title="Познавательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="kultura"tvg-logo=""group-title="Познавательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="che"tvg-logo=""group-title="Мужские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Мужские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd"tvg-logo=""group-title="Мужские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Женские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="yu"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png"group-title="Женские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="karusel"tvg-logo=""group-title="Детские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="disney"tvg-logo=""group-title="Детские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Канал Disney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="tnv-planeta"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1418619961371.jpg"group-title="Национальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНВ-Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTINF:-1 tvg-id="bst"tvg-logo=""group-title="Национальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 tvg-id="tnv"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1548674225141.png"group-title="Национальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_KZN_TNVT/variant.m3u8
+#EXTINF:-1 tvg-id="arirang"tvg-logo=""group-title="Национальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1584097296500.png"group-title="Национальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Хузур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_HUZURTV/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Информационные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="ufc"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png"group-title="Спортивные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",UFC ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv"tvg-logo=""group-title="Спортивные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Матч! ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="eurosport-4k"tvg-logo=""group-title="Спортивные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Eurosport 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="russian-extreme-uhd"tvg-logo=""group-title="Спортивные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="aiva"tvg-logo=""group-title="Музыкальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",AIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Музыкальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",MTVmix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R02_MTVMIX/variant.m3u8
+#EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Музыкальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="matur-tv"tvg-logo=""group-title="Музыкальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Матур ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 tvg-id="vsio-tv"tvg-logo=""group-title="Телемагазины"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Всё ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="spas"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1579244379155.png"group-title="Религиозные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Спас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Домашний (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Домашний (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Домашний (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Звезда (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Звезда (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Звезда (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Карусель (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Карусель (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Карусель (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мир (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мир (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мир (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТВ (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl3"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl5"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl6"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s91030.cdn.ngenix.net/hls/CH_R03_OTT_DV_VLD_1TV_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl8"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl9"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_PKAM_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl1"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl5"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl8"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl9"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="kultura-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия К (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 tvg-id="kultura-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия К (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 tvg-id="kultura-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия К (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС Love (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 tvg-id="super-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Супер (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 tvg-id="super-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Супер (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 tvg-id="super-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Супер (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ 3 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ 3 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ 3 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt4-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 tvg-id="che-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Че! (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="che-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Че! (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-id="che-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Че! (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 tvg-id="yu-pl2"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ю (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 tvg-id="yu-pl4"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ю (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 tvg-id="yu-pl7"tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ю (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 tvg-id="piatnica-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",2x2 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl4"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",2x2 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 tvg-id="2na2-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",2x2 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 24 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RTRS_TUM/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 24 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Россия 24 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s84942.cdn.ngenix.net/hls/CH_R01_OTT_DV_BLAG_ROSSIA24_BLG_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="moskva-24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 tvg-id="doverie"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Доверие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="mir-belogoria"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 tvg-id="brianskaya-gubernia"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Брянская Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 tvg-id="bars"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1417416030345.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Барс плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:-1 tvg-id="nika-tv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ника-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KALUGA_NIKA/variant.m3u8
+#EXTINF:-1 tvg-id="lipeckoe-vremia"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-oblastnoy-orel"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1418032531171.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый областной
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
+#EXTINF:-1 tvg-id="trk-ryazan"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1413547799556.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТКР Рязань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:-1 tvg-id="novy-vek-tambov"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-tulsky"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/nclogo1524672781681.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый Тульский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+#EXTINF:-1 tvg-id="gubernia-33"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Губерния 33 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1 tvg-id="tv-guberniya"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1424271969939.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ-Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-yaroslavsky"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1455621667022.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый Ярославский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1 tvg-id="region29"tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1527078518634.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Регион 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 tvg-id="kaskad24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Каскад
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 tvg-id="yurgan"tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1426055023611.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Юрган
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1469693161772.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ21+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 tvg-id="novgorodskoe-obl-tv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1544783515312.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Сампо ТВ 360°
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:-1 tvg-id="russky-sever"tvg-logo="http://fe-nw.svc.iptv.rt.ru/images/broadcastChannel1501070278515.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Русский Север
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="otv-saxalin"tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1492135002532.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТВ-Сахалин
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s14553.cdn.ngenix.net/hls/CH_R01_OTT_DV_SLIN_OTV_SLIN_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="kolyma-plus"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ-Колыма-Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_KOLYMA_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="yakutia24"tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1555633554644.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Якутия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1491374943294.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Амурское областное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s84942.cdn.ngenix.net/hls/CH_R02_OTT_DV_BLAG_AOT_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="otv-primorie"tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1337313084564.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТВ-Владивосток
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTTOTV/variant.m3u8
+#EXTINF:-1 tvg-id="gubernia"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTGUBERNYA/variant.m3u8
+#EXTINF:-1 tvg-id="ntk-kz"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTNTK/variant.m3u8
+#EXTINF:-1 tvg-id="rts-abakan"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492751843663.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РТС-Абакан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1425535253255.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Катунь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 tvg-id="altes-chita"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Альтес
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ALTES/variant.m3u8
+#EXTINF:-1 tvg-id="Аист"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",АИСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578629022322.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Кузбасс 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+#EXTINF:-1 tvg-id="enisey-region"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Енисей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 tvg-id="ots"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1425535153424.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 tvg-id="12-omsk"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",12 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="tomskoe-vremia"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436853093668.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Томское время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 tvg-id="astraxan24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Астрахань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_ASTRAKHAN24_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="arxyz24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Архыз-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
+#EXTINF:-1 tvg-id="xamdan-kalm24"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1495634512385.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Хамдан-Калмыкия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+#EXTINF:-1 tvg-id="kuban-24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Кубань 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Майкопское Телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
+#EXTINF:-1 tvg-id="rgvk-dagestan"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1494852051009.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:-1 tvg-id="kabardino-balkaria"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Кабардино-Балкария
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
+#EXTINF:-1 tvg-id="don-24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ДОН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 tvg-id="ntrk-ingushetia"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТРК Ингушетия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_INGUSHETIYA1/variant.m3u8
+#EXTINF:-1 tvg-id="svoyo-tv-stavropol"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1480323433988.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Своё ТВ Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTINF:-1 tvg-id="volgograd-24"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1447837392513.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Волгоград-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 tvg-id="osetia-iryston"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/nclogo1562670323687.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Осетия-Ирыстон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:-1 tvg-id="otv-chelyabinsk"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1346318646246.gif"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТВ Челябинск HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="otv-eburg"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1424249302577.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОТВ Екатеринбург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1550219145300.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Инфо 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:-1 tvg-id="yamal-region"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1370596383460.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ямал-Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 tvg-id="vetta24"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1477979855494.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ветта 24 Пермь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 tvg-id="yugra"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1346319216271.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Югра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-id="tumenskoe-vremia"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1573450019565.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Тюменское время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346063230148.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Национальное ТВ Чувашии
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-id="udmurtia"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1432897670387.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Удмуртия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 tvg-id="deviatka"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Девятка ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 tvg-id="tnv"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1499776279320.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 tvg-id="volga"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Волга
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 tvg-id="ort-planeta-orenburg"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1441701959690.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 tvg-id="express"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1496154848835.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Экспресс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 tvg-id="gubernia-samara"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Губерния Самара
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 tvg-id="saratov-24"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1416232942441.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Саратов-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1490273937894.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1481118103517.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Репортер 73
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 tvg-id="metr"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",МЭТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 tvg-id="belgorod24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+#EXTINF:-1 tvg-id="gorodskoy-briansk"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Городской Брянск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="ivanovo-ot"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ивановское общественное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:-1 tvg-id="vot-tv"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1430820591276.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ВОТтв
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTINF:-1 tvg-id="tk-variant"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1449146742795.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Вариант V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
+#EXTINF:-1 tvg-id="ktv-gorod"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",КТВ-Город
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl"tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1554195912035.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Городской телеканал Ярославль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+#EXTINF:-1 tvg-id="atv-media"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",АТВ-Медиа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 tvg-id="zab-tv-24"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492405937411.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Заб.TV 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
+#EXTINF:-1 tvg-id="tivikom"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946341048.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Тивиком
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 tvg-id="rostov-papa"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1509619921094.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ростов-папа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
+#EXTINF:-1 tvg-id="atv-media"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1397211521478.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTINF:-1 tvg-id="volgograd-1"tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1472218027991.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Волгоград 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1365068702809.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Русская линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-id="kurgan-ru"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Kurgan.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8
+#EXTINF:-1 tvg-id="noyabrsk24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ноябрьск 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8
+#EXTINF:-1 tvg-id="objektiv-59"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1449575420582.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Объектив 59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1386141072221.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Наши города
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-id="utv-cheboxary"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1479735787769.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ЮТВ Чебоксары
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1362025932567.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый городской канал в Кирове
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="tatarstan24"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1548665394776.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Татарстан-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-gorodskoy-nn"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1356582072221.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Первый городской (Нижний Новгород)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 tvg-id="evrasia"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Евразия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:-1 tvg-id="gis-samara"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Самара-Гис
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_STB/variant.m3u8
+#EXTINF:-1 tvg-id="disney-pl4"tvg-logo=""group-title="Детские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Канал Disney (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="saxa"tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1377476946874.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НВК (Саха)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 tvg-id="vsia-ufa"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Вся Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R03_VSYUFA/variant.m3u8
+#EXTINF:-1 tvg-id="disney-pl7"tvg-logo=""group-title="Детские"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Канал Disney (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1455156605611.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СЭТ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTS3TTV/variant.m3u8
+#EXTINF:-1 tvg-id="tivisi-hd"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1484712270808.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТиВиСи HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_TIVICI/variant.m3u8
+#EXTINF:-1 tvg-id="ntn24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
+#EXTINF:-1 tvg-id="selenga-tv"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1487582881774.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Селенга-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8
+#EXTINF:-1 tvg-id="acb-tv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",9 Волна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_ASVTV-CHRK/variant.m3u8
+#EXTINF:-1 tvg-id="4kanal-piatnica"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",4 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_4CH_EKT/variant.m3u8
+#EXTINF:-1 tvg-id="rifey-tv"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 tvg-id="s1-surgut"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1369641077824.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",С1 Сургут
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 tvg-id="yugra"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1426055023611.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ЮРГАН (Сыктывкар)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_UGRA_URAL_TUM/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВС 43 Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_TV43REGION/variant.m3u8
+#EXTINF:-1 tvg-id="tmtv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",TMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 tvg-id="dzenzhinsk-tv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Дзержинск ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 tvg-id="nash-dom"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Наш дом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",#ё
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553783249761.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Мордовия-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+#EXTINF:-1 tvg-id="teledom"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Теледом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_TELEDOM/variant.m3u8
+#EXTINF:-1 tvg-id="bashkortostan24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1511142233100.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТК Центр (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
+#EXTINF:-1 tvg-id="49kanal"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НСК 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="arig-us-24"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436946418821.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Ариг Ус 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 tvg-id="41-domashny"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Студия-41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STUDIO41/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1542282104030.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Арктика 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 tvg-id="ugra-travel"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1466425125928.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",UGRA TRAVEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587401882.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Информационная служба Югры
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553852171156.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Эфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 tvg-id="nntv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ННТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 tvg-id="skat24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Скат 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_SKAT24/variant.m3u8
+#EXTINF:-1 tvg-id="vostok-24"tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1528520081978.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Восток 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ВОСЬМОЙ КАНАЛ КРАСНОЯРСК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_ABAKAN_8CHANNEL_ABAKAN/variant.m3u8
+#EXTINF:-1 tvg-id="stv-baykal"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1540180530448.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТВ-Байкал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",КРАСНОДАР он-лайн
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 tvg-id="tv-in"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1539083218216.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ-ИН-Магнитогорск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Импульс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1521523067617.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",УТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8
+#EXTINF:-1 tvg-id="surgut-24"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1482124037811.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Сургут 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 tvg-id="maydan"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Майдан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 tvg-id="vremia-n"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555680096248.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Время Н
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 tvg-id="tolyatti24"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/nclogo1555679320129.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Тольятти-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-novosibirsk"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",8 канал Новосибирск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id="nts-irkutsk"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",НТС Иркутск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",ТВ-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 tvg-id="sts-mir"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",СТС-Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
+#EXTINF:-1 tvg-id="shayantv"tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1572342506071.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Шаян ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1567744193036.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Толк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Область 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",8 канал Красноярский край
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1478000373926.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Универ-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/variant.m3u8
+#EXTINF:-1 tvg-id="samara24"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Самара-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1 tvg-id="tolpartv"tvg-logo=""group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Толпар ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1576718811392.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Камчатка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://s14131.cdn.ngenix.net/hls/CH_R01_OTT_DV_KAM_RENTV_KAMVSEM/variant.m3u8
+#EXTINF:-1 tvg-id="prima"tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1457667979653.png"group-title="Региональные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)",Прима-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
